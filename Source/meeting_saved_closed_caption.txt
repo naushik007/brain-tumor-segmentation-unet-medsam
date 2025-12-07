@@ -1,0 +1,1848 @@
+[Jack Han] 09:12:11
+and ask any questions at this moment.
+
+[Xiuzhen Huang] 09:12:12
+Yeah, before we do that, uh, how about we just go around, uh, like, our culture?
+
+[Jack Han] 09:12:18
+Yeah, yeah, serving to…
+
+[Xiuzhen Huang] 09:12:19
+Yeah, like I introduced, yeah. Ryan, you, you… I'm not sure if it's the beginning, yeah, you, you introduced yourself, yeah.
+
+[Ryan Urbanowicz] 09:12:23
+Yep, I did.
+
+[Ryan Urbanowicz] 09:12:27
+Uh, do I go on to, uh, Peshai?
+
+[Pei-Chen Peng] 09:12:32
+Yeah, good morning, everyone. I'm Peyton Pan, and uh, now an assistant professor in the Department of Computational Biomedicine at Cedars, and I've been working with, uh,
+
+[Pei-Chen Peng] 09:12:45
+breast cancer survival prediction projects for the Dominica Hill, and during
+
+[Pei-Chen Peng] 09:12:50
+this bi-weekly Monday meetings, I'm also here to answer, um,
+
+[Pei-Chen Peng] 09:12:55
+general machine learning questions.
+
+[Pei-Chen Peng] 09:13:01
+And I'm not sure who will be the next one.
+
+[Xiuzhen Huang] 09:13:04
+Kevin, maybe? Yeah.
+
+[Kaiman Zeng] 09:13:07
+Hi everyone, my name is Kamehung, I'm a system professor of Computer Science at CSU Stanis-Ross.
+
+[Kaiman Zeng] 09:13:14
+I will be coaching the self-driving car project,
+
+[Kaiman Zeng] 09:13:18
+And if you are interested in any computer vision task, feel free to reach me out.
+
+[Xiuzhen Huang] 09:13:23
+Okay, yeah. Uh, Ima?
+
+[Yimeng He] 09:13:27
+everyone, my name is Yee Meng He, and I, um, I'm a, like, research associate and a PhD student with Dr. Huang. Um, I will, uh, coach the NLP project and, uh, like, uh, uh, medical imaging segmentation. Uh, I have been doing this for, like,
+
+[Yimeng He] 09:13:45
+two years, um, like…
+
+[Yimeng He] 09:13:47
+Um, I'm looking forward to work with you.
+
+[Xiuzhen Huang] 09:13:55
+Yeah, so that, uh, like, Jack, next, like, you want… we want students to talk, to talk about?
+
+[Xiuzhen Huang] 09:14:02
+Yeah.
+
+[Jack Han] 09:14:03
+call your student to, you know, present their proposals.
+
+[Sahar Hooshmand] 09:14:08
+Yeah, but, uh, before that, I would be grateful if the coaches can share their email addresses in chat. I will also copy them and, you know, post it on Canvas in case a student
+
+[Sahar Hooshmand] 09:14:19
+needs that.
+
+[Xiuzhen Huang] 09:14:22
+I think, uh, we, we encourage students to,
+
+[Xiuzhen Huang] 09:14:28
+Uh, to interact with coaches, basically using Slack channel, and, like, we will have, like,
+
+[Xiuzhen Huang] 09:14:34
+to, uh…
+
+[Xiuzhen Huang] 09:14:36
+to set up a select channels, basically. So it's easy communication.
+
+[Xiuzhen Huang] 09:14:42
+And, uh, like, uh, so that coach do not have to answer each student's technical question individually, and students can see other students' questions, can also get it, yeah.
+
+[Xiuzhen Huang] 09:14:54
+that will be more efficient. And, uh, like, uh, we, uh, we strongly encourage students, uh, like, uh,
+
+[Xiuzhen Huang] 09:15:02
+If it's not as specific, like, a very, very specific case, like, scenario, uh, using Slack channel to communicate with, uh, with the coach team, yeah.
+
+[Sahar Hooshmand] 09:15:11
+Oh, okay, so is there any way that can students join that, uh, that channel, you know?
+
+[Xiuzhen Huang] 09:15:17
+Yeah, uh, like, uh, Lake is working on that, uh, the setup. It will be… it will be, like, uh, uh, first, uh, like, with the selection of including all our coaches and, uh,
+
+[Xiuzhen Huang] 09:15:30
+Uh, as well as, uh, uh, students for working on different projects.
+
+[Sahar Hooshmand] 09:15:35
+Okay, I would be so grateful, thank you. So, Ivy, let's start by calling the name of the students. Maybe you can talk about the project that you picked.
+
+[Sahar Hooshmand] 09:15:43
+And if you know which direction you want to go, and if you know, you know, what a specific part you want to work on, it's time to talk about that.
+
+[Sahar Hooshmand] 09:15:52
+So I start with, uh, onion. Anil and.
+
+[Sahar Hooshmand] 09:16:02
+onion, you are mute, so…
+
+[Sahar Hooshmand] 09:16:09
+Okay, so maybe IBTR?
+
+[Sahar Hooshmand] 09:16:15
+I do too, can you hear me?
+
+[Sahar Hooshmand] 09:16:25
+So, IDT on annual, you cannot hear us?
+
+[Sahar Hooshmand] 09:16:31
+Okay, I go to the next student and wash it.
+
+[Akshay Kumar Reddy Yannam] 09:16:34
+And I start, you know, listening.
+
+[Sahar Hooshmand] 09:16:35
+Oh, yes, that is fine.
+
+[Sahar Hooshmand] 09:16:37
+Yeah, go ahead, watch Shaw. Thank you.
+
+[Akshay Kumar Reddy Yannam] 09:16:38
+Okay.
+
+[Akshay Kumar Reddy Yannam] 09:16:41
+So, uh, hi, I'm Akshin, my project is breast cancer prognosis using registry data.
+
+[Akshay Kumar Reddy Yannam] 09:16:48
+So, with my…
+
+[Akshay Kumar Reddy Yannam] 09:16:50
+like, way I go, I'll start with the Kaggle dataset.
+
+[Akshay Kumar Reddy Yannam] 09:16:54
+And build the classification models.
+
+[Akshay Kumar Reddy Yannam] 09:16:57
+Later, logistic regression.
+
+[Akshay Kumar Reddy Yannam] 09:17:00
+And random forest?
+
+[Akshay Kumar Reddy Yannam] 09:17:03
+then XZBoost to predict the survival beyond the set tourism.
+
+[Akshay Kumar Reddy Yannam] 09:17:06
+And as an extension, I'll add survival analysis.
+
+[Akshay Kumar Reddy Yannam] 09:17:10
+And use SHAP for interpretability to highlight which clinical features matter most.
+
+[Akshay Kumar Reddy Yannam] 09:17:18
+And my goal is an accurate
+
+[Akshay Kumar Reddy Yannam] 09:17:22
+pipeline that's…
+
+[Akshay Kumar Reddy Yannam] 09:17:23
+Also, clinically, you know,
+
+[Akshay Kumar Reddy Yannam] 09:17:26
+Uh, interpretable, and I have two faculty committee members called the
+
+[Akshay Kumar Reddy Yannam] 09:17:31
+So, coming to my…
+
+[Akshay Kumar Reddy Yannam] 09:17:33
+questions about the project?
+
+[Akshay Kumar Reddy Yannam] 09:17:36
+Uh, the first one is about the dataset scope.
+
+[Akshay Kumar Reddy Yannam] 09:17:39
+So, as I said, I plan to start with the Kaggle
+
+[Akshay Kumar Reddy Yannam] 09:17:43
+data set. Would you recommend, uh, trying to obtain any, uh, the shared data for better coverage, or it's fine only with the casual set?
+
+[Akshay Kumar Reddy Yannam] 09:17:55
+for my project.
+
+[Akshay Kumar Reddy Yannam] 09:17:58
+the SCR data.
+
+[Pei-Chen Peng] 09:18:02
+Yes, so, um…
+
+[Pei-Chen Peng] 09:18:06
+If the purpose is for learning the machine learning pipeline, understanding all the steps in
+
+[Pei-Chen Peng] 09:18:13
+generating the classification or survival prediction model, I think the Kaggle dataset is enough for, uh, for you to learn through the process.
+
+[Pei-Chen Peng] 09:18:23
+And… but on the other hand,
+
+[Akshay Kumar Reddy Yannam] 09:18:24
+Yeah.
+
+[Pei-Chen Peng] 09:18:26
+If the purpose is to get the perfect model using the real-world data, then SEER is the
+
+[Pei-Chen Peng] 09:18:32
+choice, but I would recommend maybe starting with the Kaggle and learn about the machine learning techniques first, and then see how it goes, because there are a lot of…
+
+[Pei-Chen Peng] 09:18:42
+Um, moving parts around it, so…
+
+[Pei-Chen Peng] 09:18:47
+learn the machine learning first, and then move on to the SEER. That's usually what happened during the previous years.
+
+[Akshay Kumar Reddy Yannam] 09:18:52
+Okay. And, uh, my next question is on the, uh, survival analysis expectations.
+
+[Pei-Chen Peng] 09:18:53
+Yeah.
+
+[Akshay Kumar Reddy Yannam] 09:18:59
+So, uh, for this, uh, is implementing COX proportional hazards plus
+
+[Akshay Kumar Reddy Yannam] 09:19:06
+a Kaplan mirror is enough to meet your expectations, or should I…
+
+[Akshay Kumar Reddy Yannam] 09:19:12
+plan any additional models, like random survival, or time-dependent, or whatever like that.
+
+[Pei-Chen Peng] 09:19:19
+Yeah, so for this project, the exploitation might be even simpler, so you can start with, like, like you said, you can start with the classification task.
+
+[Akshay Kumar Reddy Yannam] 09:19:24
+Okay.
+
+[Pei-Chen Peng] 09:19:28
+Not to… not too worried about the survival first, because I think majority of the learning materials are around the classification, so…
+
+[Akshay Kumar Reddy Yannam] 09:19:29
+Mm-hmm.
+
+[Pei-Chen Peng] 09:19:36
+Usually, in the past, if the students, um,
+
+[Pei-Chen Peng] 09:19:41
+one to the steps of valid classification, I think that is already meets the expectation, but there are actually a few
+
+[Pei-Chen Peng] 09:19:48
+moving a step forward to learn the survival, and…
+
+[Pei-Chen Peng] 09:19:52
+us for the survival of Cox, the one you mentioned is the basic model. If you have time, depending on, like, how much time you have, um, the other, like, a dip hit or survival random forest will be the next, uh, models to try. But, uh, the expectation for this one is to do the classification.
+
+[Akshay Kumar Reddy Yannam] 09:20:10
+So, uh, last question is about the clinical interpretability guidance. So, I plan to use, uh, SHAP and, uh, feature importance to explain models.
+
+[Akshay Kumar Reddy Yannam] 09:20:22
+Are there any, uh, particular ways you prefer?
+
+[Pei-Chen Peng] 09:20:22
+Mm-hmm.
+
+[Akshay Kumar Reddy Yannam] 09:20:27
+For the clinical tasks, like grouping features, reporting hazards, race, like, ratios alongside recommended any visual styles recommended.
+
+[Akshay Kumar Reddy Yannam] 09:20:38
+Something like that.
+
+[Pei-Chen Peng] 09:20:38
+Yeah, so… yeah, so I think the shop is, like, a perfect, perfect one to do the…
+
+[Pei-Chen Peng] 09:20:44
+interpretation, and if you want, when you are doing those analyses, you can also
+
+[Pei-Chen Peng] 09:20:50
+stratify your cases by… maybe by age group, or…
+
+[Pei-Chen Peng] 09:20:55
+Uh, by the other clinical features. Those are the things that you may think about, and it's a really open-ended project. We can
+
+[Pei-Chen Peng] 09:21:03
+talk about it along the line, yeah.
+
+[Akshay Kumar Reddy Yannam] 09:21:07
+That's it, uh, those are my questions, I won't take the last.
+
+[Pei-Chen Peng] 09:21:08
+Mm-hmm. Yeah.
+
+[Pei-Chen Peng] 09:21:10
+Thank you, that's a really complete plan for the project. Thank you.
+
+[Akshay Kumar Reddy Yannam] 09:21:14
+Thank you
+
+[Sahar Hooshmand] 09:21:17
+Thank you, Akshai. Yes, it looks so complete, so…
+
+[Sahar Hooshmand] 09:21:21
+The next test student, maybe psi, site or color.
+
+[Sahar Hooshmand] 09:21:30
+Okay, we go to Nashik.
+
+[Sahar Hooshmand] 09:21:34
+the light here.
+
+[Sahar Hooshmand] 09:21:37
+Oh, sorry, you are here? Okay.
+
+[Sai Thokala] 09:21:39
+Yes, Professor.
+
+[Sahar Hooshmand] 09:21:40
+Alright, so, uh, you can talk about the proposal, and if there are any questions, you can ask.
+
+[Sai Thokala] 09:21:46
+Um…
+
+[Sai Thokala] 09:21:47
+Well, now I have no questions, but I have selected self-driving cars.
+
+[Sahar Hooshmand] 09:21:54
+Alright, so the code should be Cayman, I think.
+
+[Sahar Hooshmand] 09:21:57
+Yes, so when they set up the Slack, maybe you can ask the questions, or in the upcoming sessions, make sure that you work on a project.
+
+[Jack Han] 09:22:07
+Uh, yes, yes, I… if you don't have a question, you can just present what's your plan?
+
+[Sai Thokala] 09:22:07
+Sure, sure, Professor.
+
+[Sai Thokala] 09:22:12
+Um…
+
+[Jack Han] 09:22:13
+To get the feedback from our arch coaches.
+
+[Jack Han] 09:22:19
+Yeah, you got just a president that you already have a proposal, right?
+
+[Sai Thokala] 09:22:22
+earlier, as Professor, and I do.
+
+[Jack Han] 09:22:23
+Yeah, in your proposal, you should have, like, your objectives and the method that you are going to use, and the expectations you have, right?
+
+[Sai Thokala] 09:22:29
+Mm-hmm. Uh…
+
+[Jack Han] 09:22:31
+I chose a present position, and uh, you know, because Dr. Mai is very, you know, has a very expertise in this field. I'll just give you some feedback or suggestions.
+
+[Sai Thokala] 09:22:40
+Okay, professor.
+
+[Sai Thokala] 09:22:43
+So…
+
+[Sai Thokala] 09:22:46
+Here, the main problem…
+
+[Sai Thokala] 09:22:49
+is, uh, how to accurately…
+
+[Sai Thokala] 09:22:51
+Identify and update the important objects.
+
+[Sai Thokala] 09:22:53
+In certain places.
+
+[Sai Thokala] 09:22:58
+And, uh…
+
+[Sai Thokala] 09:23:03
+I'll be training the model using Citiescrap,
+
+[Sai Thokala] 09:23:06
+Paste dataset, and with testing,
+
+[Sai Thokala] 09:23:10
+Full resolution, residual network.
+
+[Sai Thokala] 09:23:12
+It's F-R-R-N-N.
+
+[Sai Thokala] 09:23:36
+Oh, no, that's it, Professor.
+
+[Kaiman Zeng] 09:23:38
+Okay, yeah, uh, sounds good. That is the, um…
+
+[Kaiman Zeng] 09:23:43
+Uh…
+
+[Kaiman Zeng] 09:23:45
+the model we provided in the training material, uh, just go ahead and explore the model, uh, since this model needs the GPU to support your training process.
+
+[Kaiman Zeng] 09:23:57
+Um, yeah, I have to set up the training environment,
+
+[Kaiman Zeng] 09:24:00
+Uh, if it works fine for you, that's great, but if for any reason you have difficulty to access GPU, feel free to reach out.
+
+[Kaiman Zeng] 09:24:08
+We have experienced before to help students using, uh, models that
+
+[Kaiman Zeng] 09:24:15
+require less computational resource.
+
+[Kaiman Zeng] 09:24:17
+Uh, so that you can potentially, uh, working on training or evaluation on Google Colab.
+
+[Kaiman Zeng] 09:24:25
+But, uh, yeah, FRN is a great model to start with.
+
+[Sai Thokala] 09:24:31
+Not sure
+
+[Sahar Hooshmand] 09:24:36
+Thank you, Cameron. So, the Nexus students, Nareshik, the lightyear.
+
+[Naushik Beladiya] 09:24:44
+Uh, hey, so my name is Noshik.
+
+[Naushik Beladiya] 09:24:47
+And, uh, and the master's in a Computer Science and the my, uh, topic is, uh, brain tumor segmentation.
+
+[Naushik Beladiya] 09:24:55
+So, this is my project. So, the… I have the few questions. The first one is, uh, like,
+
+[Naushik Beladiya] 09:25:00
+which data set I have to use,
+
+[Naushik Beladiya] 09:25:04
+uh… like, uh…
+
+[Naushik Beladiya] 09:25:05
+should I have to stick on any particular dataset, or is it okay?
+
+[Naushik Beladiya] 09:25:12
+And, uh, in the dataset, should I have to continue with, like, any particular
+
+[Naushik Beladiya] 09:25:17
+Um, like, models, uh, sorry, in the data.
+
+[Naushik Beladiya] 09:25:21
+with these, uh, uh…
+
+[Naushik Beladiya] 09:25:23
+spacing of the call strips, or the modality to… I have to use, or…
+
+[Yimeng He] 09:25:29
+Um, like, uh, for the dataset, I mean, I'm not sure, like, which, uh, what material Dr. Han gives you, uh, but basically, there are, uh, two datasets. The first one is a Kaggle one, which, which basically is, uh, um, like, uh, they, they already convert the, uh, like, different modality to, uh, like, RGB values.
+
+[Yimeng He] 09:25:51
+And another one is, like, brain tumor segmentation challenge. I think that was a well-established challenge data set. And, but, uh, um, the, like, the later one, which, like, which is the brain, like, uh, segmentation challenge, that require larger, like, computational resources, uh, I mean, if you have, like, a GPU on hand, I think you can do that. Uh, and, uh, otherwise, I think the
+
+[Yimeng He] 09:26:15
+The first one is, like, a very good starting point. Um, for the model, uh, the default choice, like, the baseline model is UNET.
+
+[Yimeng He] 09:26:24
+Uh, and uh, please sort of try to complete a baseline of, like,
+
+[Yimeng He] 09:26:30
+I use Unit as a baseline model, then, like, uh, if you have, let's say, um,
+
+[Yimeng He] 09:26:37
+you want to try, you can try some more, like, advanced, like, uh, uh, Medesam, or, um, something like that, uh, that's basically, um, I hope that answers your question.
+
+[Naushik Beladiya] 09:26:50
+Yeah, I get you. So…
+
+[Naushik Beladiya] 09:26:54
+The question is, like, should I have to dice the score, or the…
+
+[Naushik Beladiya] 09:26:59
+IOU, or the specific clinical metrics.
+
+[Naushik Beladiya] 09:27:03
+Uh, that you like to report on the segmentation and the performance?
+
+[Yimeng He] 09:27:08
+Um, typically, we use Daiscore. Um, I like, I mean, you can… it's better to have both, right?
+
+[Naushik Beladiya] 09:27:14
+Mm-hmm. Yeah.
+
+[Naushik Beladiya] 09:27:17
+Okay. So…
+
+[Naushik Beladiya] 09:27:19
+And another one is, uh…
+
+[Naushik Beladiya] 09:27:23
+Okay, so the… are you prefer to do any visualization for the…
+
+[Naushik Beladiya] 09:27:28
+preparing the segmentation output in the final report, or the…
+
+[Yimeng He] 09:27:32
+Certainly, I mean, this is a segmentation task. You need to show us
+
+[Naushik Beladiya] 09:27:33
+on the presentation…
+
+[Naushik Beladiya] 09:27:35
+Mm-hmm, mm-hmm.
+
+[Yimeng He] 09:27:37
+show us the, like, uh, the… typically, we have, we have a baseline, and, uh, uh, like, uh, like, you, you need to show us, like, your model's output, otherwise only the, like, metric can get… we cannot know how good the, uh, segmentation is.
+
+[Naushik Beladiya] 09:27:55
+I get you. Sure, sure, sure. Yep.
+
+[Naushik Beladiya] 09:27:57
+So, yes, this is the…
+
+[Naushik Beladiya] 09:28:00
+My questions are tested for myself.
+
+[Yimeng He] 09:28:02
+Okay, thank you.
+
+[Naushik Beladiya] 09:28:03
+Mm-hmm.
+
+[Sahar Hooshmand] 09:28:05
+Thanks, Anasikh. So, uh, you know, as the coaches mentioned, uh, maybe they can provide some GPU or, you know,
+
+[Sahar Hooshmand] 09:28:13
+Something like that. But Dr. Han, do we have some source, I mean, some resource like that, like CSUDH that students can use?
+
+[Jack Han] 09:28:22
+Yeah, uh, just to contact, uh, uh, Ken.
+
+[Jack Han] 09:28:26
+And our CSU3 team also provides that.
+
+[Jack Han] 09:28:30
+TPU, yeah.
+
+[Sahar Hooshmand] 09:28:31
+Okay, so should I contact Ken, uh, myself, or, uh…
+
+[Jack Han] 09:28:35
+Yeah, you can just contact, yeah, because it's your class, yeah.
+
+[Sahar Hooshmand] 09:28:38
+Sure, sure.
+
+[Sahar Hooshmand] 09:28:39
+So, next to the students, Armando.
+
+[Armando Alvarez] 09:28:43
+But yes, I just had a real quick…
+
+[Armando Alvarez] 09:28:45
+question about resources. So, do we have… does the…
+
+[Armando Alvarez] 09:28:49
+College have, uh, virtual machines with…
+
+[Armando Alvarez] 09:28:52
+a lot of resources, like GPU, that we can SSH into and use.
+
+[Armando Alvarez] 09:28:57
+to test our models.
+
+[Armando Alvarez] 09:29:01
+Can… can you hear me?
+
+[Sahar Hooshmand] 09:29:02
+Yes, maybe I can answer that question. I know that we have some, you know, GPUs at campus. My experience from previous semester shows that
+
+[Sahar Hooshmand] 09:29:13
+Students need to be on campus because they do not grant, you know, remote access.
+
+[Sahar Hooshmand] 09:29:17
+Uh, to their students, unfortunately, but maybe the policy changed this semester.
+
+[Sahar Hooshmand] 09:29:23
+So I would contact Chen, I will let you know about that. I know that
+
+[Armando Alvarez] 09:29:24
+Okay. So these would be… these would be high, like…
+
+[Armando Alvarez] 09:29:28
+uh, laptops that we would take, like, with…
+
+[Sahar Hooshmand] 09:29:33
+Uh, so, uh, how it works is that, you know, you can access those GPUs from campus.
+
+[Armando Alvarez] 09:29:39
+Oh, only we'd have to be on campus.
+
+[Sahar Hooshmand] 09:29:41
+Um, yes, you have to join us.
+
+[Armando Alvarez] 09:29:41
+And you… we couldn't…
+
+[Armando Alvarez] 09:29:43
+We couldn't use remote desktop to use them, or something like that.
+
+[Armando Alvarez] 09:29:47
+Okay.
+
+[Sahar Hooshmand] 09:29:48
+So, you know, previous semester, it was not possible, but
+
+[Armando Alvarez] 09:29:52
+Okay.
+
+[Sahar Hooshmand] 09:29:53
+I will contact Ken to see what is the policy for this semester.
+
+[Armando Alvarez] 09:29:58
+Okay.
+
+[Yimeng He] 09:29:59
+Similarly, you can try CoLab.
+
+[Sahar Hooshmand] 09:30:01
+Yeah.
+
+[Armando Alvarez] 09:30:04
+can try… I'm sorry?
+
+[Yimeng He] 09:30:06
+Colab, Google Colab? You know that?
+
+[Sahar Hooshmand] 09:30:08
+Yeah.
+
+[Armando Alvarez] 09:30:10
+Uh, no, I do not.
+
+[Yimeng He] 09:30:12
+Uh, I mean, Google Colab, they offer you, uh, like, GPU, and these days, they see…
+
+[Yimeng He] 09:30:19
+they even offer, like, E100, I believe.
+
+[Sahar Hooshmand] 09:30:22
+Yes, you're right.
+
+[Armando Alvarez] 09:30:23
+Okay.
+
+[Yimeng He] 09:30:25
+And it's like, uh, I can tap that, it's called the Google Code…
+
+[Armando Alvarez] 09:30:26
+Right.
+
+[Yimeng He] 09:30:30
+You see that?
+
+[Armando Alvarez] 09:30:32
+Yeah.
+
+[Yimeng He] 09:30:35
+They have, like, a free subscription plan for students, so they will give access.
+
+[Armando Alvarez] 09:30:40
+Right, like AWS does.
+
+[Yimeng He] 09:30:44
+I don't know, but I mean, it will give you access to AM100, I believe.
+
+[Armando Alvarez] 09:30:50
+Hmm. Okay.
+
+[Yimeng He] 09:30:52
+That's pretty… pretty neat.
+
+[Armando Alvarez] 09:30:52
+Oh, that's good.
+
+[Armando Alvarez] 09:30:54
+Yeah, that is, thank you. Uh, yeah, because I'll probably… I will definitely need, uh…
+
+[Armando Alvarez] 09:31:01
+those resources, because for my project, I'm going to be doing the comparative analysis between UNET
+
+[Armando Alvarez] 09:31:09
+And, uh, MedSam.
+
+[Armando Alvarez] 09:31:11
+for, uh, medical image segmentation.
+
+[Yimeng He] 09:31:16
+Okay, sounds cool.
+
+[Armando Alvarez] 09:31:16
+Uh, the…
+
+[Armando Alvarez] 09:31:18
+Yeah.
+
+[Yimeng He] 09:31:18
+Um, but, uh, how you…
+
+[Yimeng He] 09:31:24
+I plan to use the MedSAM, uh, like, uh, it… I believe it requires something like a bounty box or a prompt.
+
+[Armando Alvarez] 09:31:33
+Yeah, so that's what I was reading in the paper. I only… I found a paper on MedSam.
+
+[Armando Alvarez] 09:31:40
+Um, and I was just using…
+
+[Yimeng He] 09:31:41
+What you're trying to do?
+
+[Armando Alvarez] 09:31:42
+I'm sorry?
+
+[Yimeng He] 09:31:44
+Like, what you… how would you like to compare them?
+
+[Armando Alvarez] 09:31:49
+Yeah, for… in terms of, uh…
+
+[Armando Alvarez] 09:31:51
+Well, what I liked about reading about MedSan was the… how generalizable it was, how generalized the segmentation was. You could put in
+
+[Armando Alvarez] 09:31:59
+any number of images, it seems like, from the paper that I read.
+
+[Armando Alvarez] 09:32:04
+And it… it was able to be extremely accurate.
+
+[Armando Alvarez] 09:32:07
+in the boundaries of the tumors.
+
+[Yimeng He] 09:32:12
+Uh, I mean, you can have a try. They have a demo collab, uh, I mean, in their, uh, the GitHub repo, and uh…
+
+[Armando Alvarez] 09:32:19
+Hmm.
+
+[Yimeng He] 09:32:20
+in the… I mean, you can try to use the off-the-shell model, but the problem is,
+
+[Yimeng He] 09:32:26
+Um, it's very likely the data we use is already included in their training set, which means the evaluation matric is not, um, is not fair because
+
+[Yimeng He] 09:32:39
+they use the data for training.
+
+[Armando Alvarez] 09:32:40
+it… it's pre-trained, is what you're saying.
+
+[Yimeng He] 09:32:40
+So,
+
+[Yimeng He] 09:32:44
+Right. I mean, so… so, um…
+
+[Armando Alvarez] 09:32:45
+Yes.
+
+[Yimeng He] 09:32:48
+you may think about it, because…
+
+[Yimeng He] 09:32:51
+Uh, like, what we previously do, we use the encoder of the Mansam and the…
+
+[Yimeng He] 09:32:56
+Um, we add a custom decoder to fine-tune it, then we compare the performance. And that's just a… I mean, just how we do that. You don't… you don't need to necessarily do the same. And, uh, um…
+
+[Yimeng He] 09:33:10
+I mean, you can… you can, like, try to propose your own idea and try to compare the results. Sounds like a…
+
+[Yimeng He] 09:33:21
+uh, like, a good plant.
+
+[Armando Alvarez] 09:33:23
+I was going off of the project description we were given at the beginning of the semester.
+
+[Armando Alvarez] 09:33:29
+Uh, which specifically said to compare UNET
+
+[Armando Alvarez] 09:33:34
+with MedSam. But I've read… in my reading, I've come across a lot of… a bunch of different architectures, like,
+
+[Yimeng He] 09:33:35
+Yes, yes, um…
+
+[Armando Alvarez] 09:33:42
+There was another paper I read that was comparing
+
+[Armando Alvarez] 09:33:47
+UNET with VNET,
+
+[Armando Alvarez] 09:33:49
+Uh, which is the, I guess, VNET uses 3D… does… does full 3D segmentation for the MRIs, so you don't have to turn it into the different planes?
+
+[Armando Alvarez] 09:33:59
+Which I thought was interesting.
+
+[Yimeng He] 09:34:01
+I mean, you can do whatever you want. That's just a recommendation, not a requirement.
+
+[Armando Alvarez] 09:34:06
+Right.
+
+[Armando Alvarez] 09:34:11
+So, are you… are you saying that you don't recommend
+
+[Armando Alvarez] 09:34:14
+doing a comparison of unit and mid-SAM.
+
+[Yimeng He] 09:34:16
+I don't know, I mean, I do not strictly, like, uh… I mean, I didn't require you, I do not require you to compare the MetaSem and the UNet. You can choose whatever architecture you want, uh, but UNET is also, uh, sorry, is always a very good, very strong baseline.
+
+[Yimeng He] 09:34:34
+Like, without UNED, I mean, uh, you'd better keep the UNet, actually.
+
+[Armando Alvarez] 09:34:41
+Yeah, I'm… I guess maybe I…
+
+[Armando Alvarez] 09:34:45
+what would be better would be to train Sam.
+
+[Armando Alvarez] 09:34:48
+in a similar fashion to the way they did in the MedSam paper.
+
+[Armando Alvarez] 09:34:51
+to see if you… on the… on specifically the…
+
+[Armando Alvarez] 09:34:57
+Uh…
+
+[Armando Alvarez] 09:34:58
+the decathlon dataset.
+
+[Armando Alvarez] 09:35:01
+which they did not use.
+
+[Armando Alvarez] 09:35:03
+So training… training, um, segment…
+
+[Armando Alvarez] 09:35:06
+anything model on that to create, like, my own MedSam, so to speak.
+
+[Yimeng He] 09:35:12
+You can, I mean, you can. What's…
+
+[Armando Alvarez] 09:35:14
+And then compare that to UNET to see if I can…
+
+[Yimeng He] 09:35:18
+Yes, yes, you can do that, as long as the…
+
+[Armando Alvarez] 09:35:20
+Okay.
+
+[Yimeng He] 09:35:21
+Yeah, it sounds, like, legit. It's fine.
+
+[Armando Alvarez] 09:35:25
+All right.
+
+[Sahar Hooshmand] 09:35:30
+Okay, thank you, Armando. Uh, next student, Ritesh Reddy.
+
+[Sahar Hooshmand] 09:35:42
+Hydrates, can you hear us?
+
+[Sahar Hooshmand] 09:35:51
+Um, we cannot hear you.
+
+[Sahar Hooshmand] 09:36:00
+So we cannot hear you. Guess why I go to the next student?
+
+[Sahar Hooshmand] 09:36:05
+Maybe you can't fix the issue. So, Ikelon?
+
+[Akilan Pandiyan] 09:36:12
+Hello, everyone. Good morning.
+
+[Akilan Pandiyan] 09:36:16
+So, my project is all about, like, uh, so modeling complex binary class association in simulated genomic data.
+
+[Akilan Pandiyan] 09:36:23
+So in this project, like, the primary goal is, like, um…
+
+[Akilan Pandiyan] 09:36:26
+So I'm playing a ML pipeline to train and evaluate a predictor models.
+
+[Akilan Pandiyan] 09:36:32
+to achieve best predictor performance, like, by separating, like, the secondary goal is, like, by separating… to separate the predictive and non-predictive feature within the respective data sets.
+
+[Akilan Pandiyan] 09:36:43
+So, it's all about, like, because, um, this project is totally all about, like, the data comes with noisy data.
+
+[Akilan Pandiyan] 09:36:50
+Um, so it's very few amount of data, only, like, come very, like, correct data, so…
+
+[Akilan Pandiyan] 09:36:57
+Uh, this is, like, to fix the noisy data, to find the, uh…
+
+[Akilan Pandiyan] 09:37:01
+predicting the correct data, so…
+
+[Akilan Pandiyan] 09:37:09
+So this is all about my, like, project, uh…
+
+[Sahar Hooshmand] 09:37:14
+So, any specific question that you maybe have, or…?
+
+[Akilan Pandiyan] 09:37:18
+Uh, yeah, so, like, uh, is there any suggestions, like, which, uh, machine learning algorithms, so, should I proceed, like, or else, like, I can try with all the algorithms or something?
+
+[Akilan Pandiyan] 09:37:30
+start with.
+
+[Sahar Hooshmand] 09:37:38
+So I believe that you can, uh, you know, I start it with any algorithm, as the coach has mentioned, and you can…
+
+[Akilan Pandiyan] 09:37:44
+Okay.
+
+[Sahar Hooshmand] 09:37:45
+We print these. But anyway, you should be in contact with them to see if your approach is good enough.
+
+[Akilan Pandiyan] 09:37:46
+Mm-hmm.
+
+[Akilan Pandiyan] 09:37:52
+Okay, then, yeah, sure.
+
+[Sahar Hooshmand] 09:37:54
+Okay, so next slide, Yinchu.
+
+[Yinchu Sun] 09:38:00
+Hi. Can you hear me?
+
+[Sahar Hooshmand] 09:38:01
+Yes.
+
+[Yinchu Sun] 09:38:02
+Okay, hello, my name is Inju, and
+
+[Yinchu Sun] 09:38:05
+The topic I chose is self-driving car.
+
+[Yinchu Sun] 09:38:07
+So, I have a question, like, we just talked about the GPU.
+
+[Yinchu Sun] 09:38:11
+So, can you please explain, uh, what's the…
+
+[Yinchu Sun] 09:38:15
+requirement, um, for this.
+
+[Yinchu Sun] 09:38:18
+project, either for the GPU requirement.
+
+[Sahar Hooshmand] 09:38:28
+So, Kevin, you are on mute, we cannot hear you.
+
+[Kaiman Zeng] 09:38:31
+Yeah, uh, into, uh, the hardware requirement is basically, uh, uh, NVIDIA GPU. Our experience is working with NVIDIA
+
+[Kaiman Zeng] 09:38:46
+XP, um, but if you have more recent GPU, I believe it will be fine.
+
+[Kaiman Zeng] 09:38:53
+Um…
+
+[Kaiman Zeng] 09:38:57
+Yeah. Cool.
+
+[Kaiman Zeng] 09:38:59
+I think it's crispy.
+
+[Kaiman Zeng] 09:39:03
+And who I will provide his codebase.
+
+[Kaiman Zeng] 09:39:06
+You will need to, uh, have a Linux environment.
+
+[Kaiman Zeng] 09:39:11
+Our experience work with Ubuntu 16.04 and 18…
+
+[Kaiman Zeng] 09:39:16
+224, so…
+
+[Kaiman Zeng] 09:39:20
+Excuse me. So if you can, uh, set up an Ubuntu with 18.04, that would be great, but if you…
+
+[Kaiman Zeng] 09:39:30
+can set up more recent Ubuntu, we can give it a try and explore, will it compatible with our codebase?
+
+[Kaiman Zeng] 09:39:36
+And then, once you have that, uh, hardware and software environment set up,
+
+[Kaiman Zeng] 09:39:42
+our codebase is established in a Docker environment that helps you resolve some compatibility issues with the libraries.
+
+[Yinchu Sun] 09:39:52
+Okay.
+
+[Kaiman Zeng] 09:39:53
+But the key challenging part, uh, from our previous experience is the successful setup with the, um, basically Linux with the compatible GPU, NVIDIA GPU.
+
+[Yinchu Sun] 09:40:04
+Mm-hmm.
+
+[Kaiman Zeng] 09:40:05
+And, uh, some other option that, um, yeah, other team also mentioned, the Google Collab is a good option.
+
+[Kaiman Zeng] 09:40:12
+Uh, since we can potentially use the segment-anything model, uh, with other, um,
+
+[Kaiman Zeng] 09:40:20
+more lightweight object detection model to work together.
+
+[Kaiman Zeng] 09:40:24
+But, uh, of course, they, uh, provided, uh, FR model with
+
+[Kaiman Zeng] 09:40:30
+give you a better idea how,
+
+[Kaiman Zeng] 09:40:33
+traditional convolutional neural network work, and better understand what is the pipeline to train a deep learning models for segment-anything model.
+
+[Kaiman Zeng] 09:40:42
+Those are pre-trained models, so it's already a large vision model. We, um…
+
+[Kaiman Zeng] 09:40:49
+We don't really need to train much later on it, and you can get very great segmentation results, but as a beginner and learner,
+
+[Kaiman Zeng] 09:40:57
+I think it's still good, uh…
+
+[Kaiman Zeng] 09:41:00
+And also an important experience to train the model from the scratch.
+
+[Kaiman Zeng] 09:41:04
+So, I would encourage you to explore the setup for GPU and, um…
+
+[Yinchu Sun] 09:41:04
+Okay.
+
+[Kaiman Zeng] 09:41:11
+the Linux environment first, but if…
+
+[Kaiman Zeng] 09:41:14
+That's cannot work out for you.
+
+[Kaiman Zeng] 09:41:17
+Yeah. No worries, feel free to reach out, and we can pick some other model.
+
+[Yinchu Sun] 09:41:22
+Okay, got it. And another question I have is, uh, which evaluation metrics should I use to…
+
+[Yinchu Sun] 09:41:29
+measure whether my model is performing well. Do you have any suggestion?
+
+[Kaiman Zeng] 09:41:34
+Um, we use IOU for our project.
+
+[Yinchu Sun] 09:41:36
+Mm-hmm.
+
+[Kaiman Zeng] 09:41:37
+Um, but just like Iman also mentioned, DICE is also another good one.
+
+[Kaiman Zeng] 09:41:41
+But, mm, yeah.
+
+[Kaiman Zeng] 09:41:44
+For our project, we normally just use ALU.
+
+[Yinchu Sun] 09:41:46
+Okay, thank you so much.
+
+[Sahar Hooshmand] 09:41:51
+Thank you. So, next month, Rob?
+
+[Mantra Mehta] 09:41:56
+Can you hear me?
+
+[Sahar Hooshmand] 09:41:56
+Yes.
+
+[Mantra Mehta] 09:41:59
+Yes, good morning.
+
+[Mantra Mehta] 09:42:00
+Uh, I'm Andrew, and I'm working on my master's project titled Modeling Complex.
+
+[Mantra Mehta] 09:42:05
+binary class associations in simulated genomic data.
+
+[Mantra Mehta] 09:42:10
+Uh, so, in short, my project creates simulated genetic datasets and
+
+[Mantra Mehta] 09:42:15
+builds a machine learning pipeline.
+
+[Mantra Mehta] 09:42:17
+Uh, that can predict binary outcomes, like…
+
+[Mantra Mehta] 09:42:20
+Case versus control from SSB-like data.
+
+[Mantra Mehta] 09:42:25
+And this approach avoids privacy issues with real patient data.
+
+[Mantra Mehta] 09:42:29
+but still allows us to explore methods that are highly relevant for precision and medicine and healthcare research.
+
+[Mantra Mehta] 09:42:37
+And I have one question.
+
+[Mantra Mehta] 09:42:40
+So, in your experience, such machine learning models tend to be most promising for binary classification problems in genomics or patient outcomes?
+
+[Sahar Hooshmand] 09:43:03
+So, can you repeat your question? Maybe?
+
+[Mantra Mehta] 09:43:05
+Oh, please. So, in your experience, I mean, which machine learning models tend to be more promising?
+
+[Mantra Mehta] 09:43:12
+For binary classification problems.
+
+[Mantra Mehta] 09:43:15
+In genomics?
+
+[Ryan Urbanowicz] 09:43:17
+Was that for me?
+
+[Mantra Mehta] 09:43:20
+Oh, yes, yeah.
+
+[Ryan Urbanowicz] 09:43:20
+in binary classification problems. It depends.
+
+[Ryan Urbanowicz] 09:43:23
+Um, you know, so all algorithms have their own strengths and weaknesses.
+
+[Ryan Urbanowicz] 09:43:28
+And it depends on your priorities. So, one of the priorities… the most common priority is accuracy, right? How accurately and reliably and reproducibly can you train a given model?
+
+[Ryan Urbanowicz] 09:43:38
+to make predictions. Um, but…
+
+[Ryan Urbanowicz] 09:43:40
+accuracy is just part of the picture, so there are other, I guess you could think of it as objectives or goals in modeling that you might care about.
+
+[Ryan Urbanowicz] 09:43:48
+If you're a medical researcher or an engineering researcher, or any… or a finance research,
+
+[Ryan Urbanowicz] 09:43:54
+Um, so for example, interpretability.
+
+[Ryan Urbanowicz] 09:43:56
+of the model can play a big role in, you know, what's best, what's most useful.
+
+[Ryan Urbanowicz] 09:44:02
+Um, also there's constraints on how
+
+[Ryan Urbanowicz] 09:44:04
+much computation are required to train different algorithms, right? Not everyone has access to…
+
+[Ryan Urbanowicz] 09:44:09
+a lot of computing resources, and some algorithms are much more compute-hungry
+
+[Ryan Urbanowicz] 09:44:14
+or require a much larger training data set.
+
+[Ryan Urbanowicz] 09:44:17
+to make… to train a good model. So, a quick example of that would be
+
+[Ryan Urbanowicz] 09:44:21
+something like, you know, a deep learner, a large-scale artificial neural network, is generally regarded as requiring a lot of
+
+[Ryan Urbanowicz] 09:44:28
+training data, otherwise it's very susceptible to overfitting.
+
+[Ryan Urbanowicz] 09:44:31
+Um, so there are some algorithms that can do more with less.
+
+[Ryan Urbanowicz] 09:44:35
+So, in general, to give you some kind of answer, and sort of a punchline,
+
+[Ryan Urbanowicz] 09:44:40
+Um, random forest is, like, a good go-to starting point. I think it's very popular, it generally works fairly well in a lot of problems.
+
+[Ryan Urbanowicz] 09:44:48
+Um, you know, for somebody new to machine learning, that is a good one to always include.
+
+[Ryan Urbanowicz] 09:44:53
+Um, but there's no… you never know when you face any new data set or problem. You never know.
+
+[Ryan Urbanowicz] 09:45:00
+what algorithm is going to work best until you've tried out a variety of algorithms. So I always suggest
+
+[Ryan Urbanowicz] 09:45:06
+to people that they don't just use their favorite algorithm, always pick an assortment of methods to compare.
+
+[Ryan Urbanowicz] 09:45:13
+Um, ideally methods that have…
+
+[Ryan Urbanowicz] 09:45:15
+you know, strong differences between them. Um, so I wouldn't pick all
+
+[Ryan Urbanowicz] 09:45:19
+pre-based algorithms. Like, I wouldn't pick, you know, only a decision tree, a random forest, and…
+
+[Ryan Urbanowicz] 09:45:25
+you know, XGBoost. Those are all tree-based algorithms. You can run them all, but you should look at some other methods, right?
+
+[Ryan Urbanowicz] 09:45:32
+artificial neural networks to support vector machines, there's
+
+[Ryan Urbanowicz] 09:45:36
+Um, yeah, there's nearest neighbors algorithms, um, and then there's a family of algorithms that I'm very interested in.
+
+[Ryan Urbanowicz] 09:45:42
+called rule-based machine learning algorithms.
+
+[Ryan Urbanowicz] 09:45:45
+And what I like about this family of algorithms is they can detect really complex relationships in data, in multivariate data, in fairly large-scale data.
+
+[Ryan Urbanowicz] 09:45:55
+But at the end of the day, they also give you
+
+[Ryan Urbanowicz] 09:45:58
+transparent and highly interpretable models, which is very different.
+
+[Ryan Urbanowicz] 09:46:03
+from something like a neural network or deep learning algorithm. So that was a long-winded way of saying that
+
+[Ryan Urbanowicz] 09:46:09
+There's… you can't know what method's going to work best ahead of time. Always try multiple methods.
+
+[Ryan Urbanowicz] 09:46:14
+And be aware of what it is you care about in the modeling. Is it just making good predictions?
+
+[Ryan Urbanowicz] 09:46:20
+Is it making good use of the little data you have? Is it…
+
+[Ryan Urbanowicz] 09:46:26
+balancing, you know, good predictions with, you know, transparency and interpretability in your model.
+
+[Ryan Urbanowicz] 09:46:31
+Um, so there's a lot of things to consider, and rarely can you boil it down to one choice.
+
+[Ryan Urbanowicz] 09:46:38
+ahead of time.
+
+[Mantra Mehta] 09:46:41
+Thanks so much, thank you so much.
+
+[Ryan Urbanowicz] 09:46:42
+Yep.
+
+[Jack Han] 09:46:42
+Yeah, okay, uh, since I have a very general comment about this, about the kind of algorithm you should select,
+
+[Jack Han] 09:46:49
+And I just started, I recommend that you probably need to try the different methods.
+
+[Jack Han] 09:46:55
+Keep in mind that this project is not asking to develop your own algorithm.
+
+[Jack Han] 09:47:01
+Right? So you are going to use the exit algorithm to go through the entire process.
+
+[Jack Han] 09:47:07
+And so, you have… that's why you need to try the different algorithms. Also,
+
+[Jack Han] 09:47:12
+And one of these projects, uh, objectives is to figure out what kind of algorithm is the best one.
+
+[Jack Han] 09:47:20
+for that specific dataset, or with different data sets, you may say, oh, which algorithm is best for this, or which algorithm is better for that one? And even for the given SIMS data set,
+
+[Jack Han] 09:47:31
+I said, you have different styles, for example, like that.
+
+[Jack Han] 09:47:33
+Frosberg, you're using some way to select the features, and then you apply some algorithm which is better than others.
+
+[Jack Han] 09:47:39
+However, if you use another way to select another site hub for features, and then you'll find all the other
+
+[Jack Han] 09:47:46
+Always remember, so on and so forth, right? So that's why you have to try.
+
+[Jack Han] 09:47:51
+try attempt at the different ways to figure out
+
+[Jack Han] 09:47:54
+What's the best for this situation, yeah.
+
+[Mantra Mehta] 09:47:56
+Thank you so much, much like you.
+
+[Sahar Hooshmand] 09:48:00
+Great, thank you, Royan. Thank you, Dr. Hahn. So, next, uh, Lakshmi.
+
+[Sahar Hooshmand] 09:48:13
+Leischmi's not there, so Grudavi?
+
+[Gurudevi Lavanya Gopisetty] 09:48:19
+Uh, hi, Professor. Myself, Lavanya.
+
+[Gurudevi Lavanya Gopisetty] 09:48:22
+So, I'm working with a self-driving cars project, so basically the project is mainly about, like, segmentation of the images, and I would like to do it in this way, like,
+
+[Gurudevi Lavanya Gopisetty] 09:48:36
+Uh, helping, uh, like, using the dataset of, uh, cityscapes.
+
+[Gurudevi Lavanya Gopisetty] 09:48:41
+And basically, you want to implement the base model first. If our FRNN.
+
+[Gurudevi Lavanya Gopisetty] 09:48:48
+And then I would like to, uh…
+
+[Gurudevi Lavanya Gopisetty] 09:48:52
+implement, uh, other models, like have a try on other models, like Unit Deep, uh…
+
+[Gurudevi Lavanya Gopisetty] 09:48:57
+Uh, unit and the lab.
+
+[Gurudevi Lavanya Gopisetty] 09:48:59
+And, uh, like, signet. So I just wanna try, uh, which model works.
+
+[Gurudevi Lavanya Gopisetty] 09:49:05
+Good. And, uh, my question is that, like, what matrix I need to, um, consider for the main thing, or for the difference?
+
+[Gurudevi Lavanya Gopisetty] 09:49:16
+Like, to show the main difference of the model.
+
+[Gurudevi Lavanya Gopisetty] 09:49:20
+accuracy, like, what metrics do I generally need to choose?
+
+[Gurudevi Lavanya Gopisetty] 09:49:25
+Is it like, uh, do I need to do for the real-time deployment, or, like, yeah.
+
+[Kaiman Zeng] 09:49:33
+Uh, can you repeat your first question?
+
+[Kaiman Zeng] 09:49:37
+is that… if I understand, are you asking which model to…
+
+[Sahar Hooshmand] 09:49:42
+No, we need metrics to pick to compare. This was the question. The metrics to compare.
+
+[Kaiman Zeng] 09:49:42
+Pick.
+
+[Kaiman Zeng] 09:49:48
+how metrics, uh, IOU, we use, uh, intersection over union to…
+
+[Sahar Hooshmand] 09:49:48
+Yes.
+
+[Kaiman Zeng] 09:49:54
+compare, and also depends on your interest. You can compare IOU for different classes, but generally speaking,
+
+[Kaiman Zeng] 09:50:02
+We use the average IOU for all classes.
+
+[Kaiman Zeng] 09:50:05
+But you might see that you work well for one particular class may work not that good for another class.
+
+[Kaiman Zeng] 09:50:11
+So, whether or not, uh, which model to deploy, if we need to deploy a model,
+
+[Kaiman Zeng] 09:50:16
+Well, yeah, depends on the… on the…
+
+[Kaiman Zeng] 09:50:18
+yeah, application scenario. But for us, we just run for simulation, we don't deploy it.
+
+[Gurudevi Lavanya Gopisetty] 09:50:26
+Okay, Professor, thank you.
+
+[Sahar Hooshmand] 09:50:30
+Thank you. So, Gerontica?
+
+[Sahar Hooshmand] 09:50:36
+trying to connect there, Anishka?
+
+[Anushka] 09:50:42
+Yes, hi, Professor. Good morning.
+
+[Anushka] 09:50:45
+So, my name is Anushka, and I'm working on the cancer subtypes project.
+
+[Anushka] 09:50:51
+And, um, the proposal, or the rough, um,
+
+[Anushka] 09:50:55
+flow of what I would do in my project would be data… data acquisition and exploration of the different features.
+
+[Anushka] 09:51:02
+Since I'm really new to machine learning, I might just take some time for that.
+
+[Anushka] 09:51:07
+And then the next step would be data preprocessing.
+
+[Anushka] 09:51:12
+Um, I'm trying to focus on supervised learning algorithms initially, like the random forest and SVM one.
+
+[Anushka] 09:51:20
+So that it's easier for the model validation.
+
+[Anushka] 09:51:24
+And, uh, then I'll just conclude it by the model interpretation, bio… you know, the biomarker analysis, and
+
+[Anushka] 09:51:32
+And then the validation, um, for the predictions.
+
+[Anushka] 09:51:36
+So, um, I do have a few questions regarding the project.
+
+[Anushka] 09:51:42
+Um, the first one would be that, do you have any recommendations for handling the class imbalance? Because there are various sample sizes.
+
+[Anushka] 09:51:51
+across the, uh, across the cancer subtypes.
+
+[Ryan Urbanowicz] 09:51:55
+Yeah, great question.
+
+[Ryan Urbanowicz] 09:51:57
+There are a couple ways you can approach
+
+[Ryan Urbanowicz] 09:52:00
+class imbalance.
+
+[Ryan Urbanowicz] 09:52:03
+the first couple ways I'm gonna mention, uh, I don't actually recommend, necessarily, but there's a time and a place for them, and some people…
+
+[Ryan Urbanowicz] 09:52:11
+like these strategies. So, there's something called undersampling and oversampling are two strategies that have been used.
+
+[Ryan Urbanowicz] 09:52:18
+Again, I do not necessarily recommend these, because both of these
+
+[Ryan Urbanowicz] 09:52:22
+in my mind, represent, um…
+
+[Ryan Urbanowicz] 09:52:25
+something closer to, you know, a data manipulation.
+
+[Ryan Urbanowicz] 09:52:29
+Um, you're, you're flirting with this…
+
+[Ryan Urbanowicz] 09:52:31
+this, uh, possible of introducing bias into your data. And so,
+
+[Ryan Urbanowicz] 09:52:36
+Oversampling is basically
+
+[Ryan Urbanowicz] 09:52:38
+basically resampling from your minority class, the class that you are… that is less well represented,
+
+[Ryan Urbanowicz] 09:52:43
+to bring its count up closer to the other groups. This is the strategy I like the least. I think it has the most potential to introduce bias.
+
+[Ryan Urbanowicz] 09:52:52
+Um, then there's undersampling. That means that you are removing samples
+
+[Ryan Urbanowicz] 09:52:57
+from the classes that have a larger count to, again, make them more equal. But when you do this, of course, you're losing sample size, you're losing power to detect the true signal that's in the data.
+
+[Ryan Urbanowicz] 09:53:09
+Um, so, intuitively, you're probably asking, well, what's left? If you don't oversample or undersample, how do you deal with it?
+
+[Ryan Urbanowicz] 09:53:16
+The answer is really to be aware of your evaluation metrics, right? Make sure that you're using
+
+[Ryan Urbanowicz] 09:53:23
+a set of metrics that
+
+[Ryan Urbanowicz] 09:53:26
+takes class imbalance into account when you're evaluating your models.
+
+[Ryan Urbanowicz] 09:53:30
+a good example of this is that traditional accuracy is, you know, like, a widely used…
+
+[Ryan Urbanowicz] 09:53:37
+metric of model performance. And traditional accuracy doesn't take class imbalance into account.
+
+[Ryan Urbanowicz] 09:53:43
+Um, there is an alternative metric called balanced accuracy that I recommend.
+
+[Ryan Urbanowicz] 09:53:48
+Um, there are… there are bunches of metrics and bunches of ways to take
+
+[Ryan Urbanowicz] 09:53:53
+class and balance into account. Um, I like this balanced accuracy metric. It's basically the average of sensitivity and specificity, so it's equally weighting
+
+[Ryan Urbanowicz] 09:54:02
+the algorithm's ability to predict
+
+[Ryan Urbanowicz] 09:54:04
+all classes in the data set, or each class in the data set, not just…
+
+[Ryan Urbanowicz] 09:54:08
+you know, the, uh, whatever would be considered the, um…
+
+[Ryan Urbanowicz] 09:54:12
+the positive class.
+
+[Ryan Urbanowicz] 09:54:15
+Um, so that's one approach, is evaluation. And also, when it comes to
+
+[Ryan Urbanowicz] 09:54:19
+So those are metrics that are looking at a single…
+
+[Ryan Urbanowicz] 09:54:23
+decision cutoff, uh, sorry, decision threshold when using a machine learning model. So, when you train a model, you usually train it with a specific default decision threshold in mind, and generally this is just .5.
+
+[Ryan Urbanowicz] 09:54:36
+is typically used. But if you're familiar with things like an ROC curve or a PRC curve,
+
+[Ryan Urbanowicz] 09:54:42
+Um, these are ways to evaluate a model that consider all possible decision thresholds.
+
+[Ryan Urbanowicz] 09:54:48
+Because once you train a model, you can use it
+
+[Ryan Urbanowicz] 09:54:51
+by also sliding this decision threshold. So basically, you're increasing the chances of…
+
+[Ryan Urbanowicz] 09:54:56
+True positives or false positives. So, like, let's say I train a model to predict who's… who has Ebola getting off an airplane, and I really don't want to miss a case of Ebola, so I can move my slider up on this decision threshold,
+
+[Ryan Urbanowicz] 09:55:10
+to reduce the chance that I will miss a true positive, that I don't want to miss somebody who actually has Ebola.
+
+[Ryan Urbanowicz] 09:55:18
+But as I move that slider up on the machine learning model,
+
+[Ryan Urbanowicz] 09:55:22
+The trade-off is, now I'm gonna make way more false positives. I'm gonna incorrectly…
+
+[Ryan Urbanowicz] 09:55:28
+identify a bunch of people as having Ebola who don't.
+
+[Ryan Urbanowicz] 09:55:30
+Right? So that's… that's part of the trade-off. And so something like,
+
+[Ryan Urbanowicz] 09:55:35
+an ROC curve allows you to look at how a model would perform under all these different
+
+[Ryan Urbanowicz] 09:55:40
+threshold scenarios. It gives you a more holistic evaluation
+
+[Ryan Urbanowicz] 09:55:45
+of machine learning model's performance. And…
+
+[Ryan Urbanowicz] 09:55:48
+Getting back to your class imbalance question,
+
+[Ryan Urbanowicz] 09:55:50
+When you have, um, imbalanced data, an ROC curve, or a receiver operating
+
+[Ryan Urbanowicz] 09:55:58
+characteristic plot, or curve.
+
+[Ryan Urbanowicz] 09:56:00
+That is, um, a little more biased. So you want to avoid that.
+
+[Ryan Urbanowicz] 09:56:04
+Um, instead, you could use something like a PRC curve, which is a precision recall curve.
+
+[Ryan Urbanowicz] 09:56:09
+Um, that focuses more on the… the… the, um…
+
+[Ryan Urbanowicz] 09:56:13
+the positive class. And if you have multi-class problems,
+
+[Ryan Urbanowicz] 09:56:17
+now you have to kind of look… you have to reduce…
+
+[Ryan Urbanowicz] 09:56:20
+your predictions down into
+
+[Ryan Urbanowicz] 09:56:22
+How well did I predict Class A versus all other classes? How well did I predict Class B versus all other classes, and Class C versus all other classes?
+
+[Ryan Urbanowicz] 09:56:30
+So if you want to, um…
+
+[Ryan Urbanowicz] 09:56:31
+do something like an ROC or PERC plot. You'll have to take…
+
+[Ryan Urbanowicz] 09:56:35
+some extra challenges into consideration for multi-class problems, but you can still use these kinds of analyses and visualizations.
+
+[Ryan Urbanowicz] 09:56:42
+So that was a little long-winded, but did that answer your question?
+
+[Anushka] 09:56:46
+Yes, thank you.
+
+[Ryan Urbanowicz] 09:56:47
+Okay. Uh, any other?
+
+[Anushka] 09:56:49
+Yeah. Yeah, um, so the next question is that, what is the distribution of samples across the different, um, cancer subtypes?
+
+[Ryan Urbanowicz] 09:57:01
+Uh… say that again? What is the distribution of classes?
+
+[Anushka] 09:57:04
+Uh, no, the distribution of samples.
+
+[Ryan Urbanowicz] 09:57:08
+Oh, samples.
+
+[Ryan Urbanowicz] 09:57:10
+Um… well, that's what you mean by class imbalance, right?
+
+[Anushka] 09:57:14
+Um, yeah, you can say that, yes.
+
+[Ryan Urbanowicz] 09:57:17
+Yeah.
+
+[Anushka] 09:57:18
+But yeah, you answered that, yeah.
+
+[Ryan Urbanowicz] 09:57:20
+I mean, and that's something you'll… you should look at in your exploratory… your initial exploratory analysis of the data set to get to know your data.
+
+[Anushka] 09:57:20
+So,
+
+[Anushka] 09:57:27
+Okay, yeah, sure.
+
+[Anushka] 09:57:29
+And, uh, do you recommend any key, uh, resources for understanding, you know, the key context of this? Because, uh, it's… it's really… I'm relatively new to this, and…
+
+[Anushka] 09:57:40
+I would like to learn more about…
+
+[Ryan Urbanowicz] 09:57:40
+Are you talking about… are you talking about the machine learning side, or the biomedical data set side?
+
+[Anushka] 09:57:46
+Actually, both, because, um…
+
+[Anushka] 09:57:48
+I want to explore more.
+
+[Anushka] 09:57:50
+And… yeah.
+
+[Ryan Urbanowicz] 09:57:50
+Yep.
+
+[Ryan Urbanowicz] 09:57:52
+So, on the website, um, sorry, on the projects website that I showed before the link that's in the chat for projects, if you go to this projects tab,
+
+[Ryan Urbanowicz] 09:58:03
+Um, there will be… and download all the materials for this project. It comes… there's a download button at the end where you can
+
+[Ryan Urbanowicz] 09:58:10
+get a zipped folder with all the project materials, um, including
+
+[Ryan Urbanowicz] 09:58:14
+Uh, I believe there's publications in there, and there's definitely some pointers to publications.
+
+[Ryan Urbanowicz] 09:58:19
+that talk about the original dataset, and you can kind of use that as a jumping-off point to explore, you know, what is this
+
+[Ryan Urbanowicz] 09:58:24
+data about, uh, what the data type, trying to understand gene expression in general. You can always turn to things like ChatGPT and other AI to kind of help
+
+[Ryan Urbanowicz] 09:58:33
+guide you through answering questions, you know, about, like, you know, what are some challenges in gene expression data analysis?
+
+[Ryan Urbanowicz] 09:58:39
+What are usually things that people, you know, would do with this kind of data? That's a good, quick entry point, and it might even be able to point you to some good
+
+[Ryan Urbanowicz] 09:58:48
+more general research publications.
+
+[Anushka] 09:58:50
+Okay.
+
+[Ryan Urbanowicz] 09:58:50
+Um, and then when it comes to machine learning, there's a ton of resources out there online. I have a YouTube channel.
+
+[Ryan Urbanowicz] 09:58:57
+That I can put in the chat. I have a lot of introductory videos.
+
+[Ryan Urbanowicz] 09:59:00
+Uh, specifically, I have one playlist that introduces, um, the fundamentals of machine learning,
+
+[Ryan Urbanowicz] 09:59:06
+Uh, in data science, so it'll cover a lot of…
+
+[Ryan Urbanowicz] 09:59:10
+the aspects of data analysis that will be of interest to this project, for example. So both
+
+[Ryan Urbanowicz] 09:59:16
+Both my… both the SNP…
+
+[Ryan Urbanowicz] 09:59:19
+binary classification project and this gene expression project are pretty well covered in terms of, like, what kinds of
+
+[Ryan Urbanowicz] 09:59:25
+data analysis elements might you consider using? And let me just… I'll find that link, and I'll put it in the chat.
+
+[Anushka] 09:59:32
+Okay, sure, thank you. And a last question is that, are there any accuracy thresholds or performance metrics to evaluate the results in the
+
+[Anushka] 09:59:41
+Um, last step.
+
+[Ryan Urbanowicz] 09:59:44
+Uh, sorry, I was distracted by looking at websites. Say that one more time, my apologies.
+
+[Anushka] 09:59:48
+Yes.
+
+[Anushka] 09:59:49
+Um, so are there any accuracy thresholds or performance metrics to evaluate the results?
+
+[Anushka] 09:59:55
+So, when we are done with
+
+[Anushka] 09:59:57
+the sampling and predictions, so how do we…
+
+[Ryan Urbanowicz] 10:00:02
+Yeah, I mean, that's part of what you… you definitely want to take some time to learn about, are what our… what our…
+
+[Anushka] 10:00:03
+evaluate.
+
+[Ryan Urbanowicz] 10:00:09
+established, recognized ways to…
+
+[Ryan Urbanowicz] 10:00:11
+properly evaluate multi-class models. You'll want to take a look at that. There's lots of metrics out there, and just like machine learning methods, right, I suggested before, don't just pick one algorithm, or one algorithm type.
+
+[Ryan Urbanowicz] 10:00:24
+Um, for everyone here, if you're going to be doing machine learning modeling,
+
+[Ryan Urbanowicz] 10:00:28
+you should examine a variety of methods. You should certainly also look at hyperparameter sweep, right? Don't just use methods with their default values.
+
+[Ryan Urbanowicz] 10:00:38
+explore settings that can change how well they work on different problems.
+
+[Ryan Urbanowicz] 10:00:41
+But then on top of all that, I would recommend you evaluate multiple performance metrics. Don't just use one metric, right? Like, every metric has its own…
+
+[Ryan Urbanowicz] 10:00:50
+is its own way of looking at how well an algorithm works, and getting to know different evaluation metrics and use
+
+[Ryan Urbanowicz] 10:00:56
+a variety of metrics when evaluating your models and presenting your results.
+
+[Ryan Urbanowicz] 10:01:00
+is, uh, I would say, important.
+
+[Anushka] 10:01:03
+Okay, thank you.
+
+[Ryan Urbanowicz] 10:01:03
+So, look, I'm gonna… I'm just gonna send you this playlist link, and…
+
+[Ryan Urbanowicz] 10:01:08
+And then I'll put that in the chat.
+
+[Sahar Hooshmand] 10:01:10
+Great, thank you.
+
+[Xiuzhen Huang] 10:01:10
+We… yeah, we have almost all the time, uh, like, uh…
+
+[Sahar Hooshmand] 10:01:14
+Yes, and I think I re…
+
+[Xiuzhen Huang] 10:01:15
+For select side, Saha, uh, will follow up, uh, you should be able to, when you get the invites for select, you can add all the students.
+
+[Xiuzhen Huang] 10:01:24
+to the select channel, yeah. And, uh, also, just like, uh, so for right now, the…
+
+[Sahar Hooshmand] 10:01:26
+Yeah.
+
+[Xiuzhen Huang] 10:01:31
+set up for bi-weekly meeting, and in general, like, toward the end of the semester, in general, in November,
+
+[Xiuzhen Huang] 10:01:40
+Uh, you already… we will do also with the culture. Together, we will see, like, a weekly meeting.
+
+[Xiuzhen Huang] 10:01:46
+Uh, for planning for November. Yeah, but, uh, Saha, you feel free, like, uh,
+
+[Xiuzhen Huang] 10:01:52
+Uh, like, you do weekly meeting with the students, in case a student has other logistic questions, yeah.
+
+[Sahar Hooshmand] 10:01:55
+Yeah.
+
+[Sahar Hooshmand] 10:01:58
+Yes, well, of course, we have our own meetings, and the coaching meeting is a separate one, so we will handle both.
+
+[Sahar Hooshmand] 10:02:04
+Uh, so I've, uh, I think that's how I called all the students nay.
+
+[Sahar Hooshmand] 10:02:09
+Uh, some of them were not responsive so far, but anyway, you have time, so please work on the projects, and if you have a question, definitely feel free to ask.
+
+[Sahar Hooshmand] 10:02:19
+And thanks a lot for your time, answering all the students' questions. Thank you.
+
+[Sahar Hooshmand] 10:02:25
+Have a good rest of the day, everyone.
+
+[Sahar Hooshmand] 10:02:28
+Bye.
+
