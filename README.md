@@ -20,6 +20,7 @@ This project implements a complete pipeline for 3D brain tumor segmentation usin
 ✅ **BASELINE COMPLETE** - Model trained and evaluated!
 
 ### Baseline Results:
+
 - **Whole Tumor (WT)**: 0.9126 ± 0.0528 ✅ Excellent
 - **Tumor Core (TC)**: 0.8126 ± 0.1859 ✅ Good
 - **Enhancing Tumor (ET)**: 0.5985 ± 0.2443 ⚠️ Challenging
@@ -30,6 +31,7 @@ This project implements a complete pipeline for 3D brain tumor segmentation usin
 ## 🚀 Quick Start
 
 ### Option 1: Minimum Viable (15 minutes) ⚡
+
 **Already have a baseline! Just add improvements:**
 
 1. Open the notebook in Google Colab
@@ -40,6 +42,7 @@ This project implements a complete pipeline for 3D brain tumor segmentation usin
 **Expected Result**: Mean Dice **~0.79-0.80** (+2-3% improvement)
 
 ### Option 2: Recommended (1-2 hours) 🎯
+
 All of Option 1, plus:
 
 1. Enable TTA (Test-Time Augmentation)
@@ -48,6 +51,7 @@ All of Option 1, plus:
 **Expected Result**: Mean Dice **~0.80-0.82** (+3-5% improvement)
 
 ### Option 3: Advanced (8-12 hours) 🚀
+
 All of Option 2, plus:
 
 1. Train improved model with Attention U-Net
@@ -80,24 +84,28 @@ brain-tumor-segmentation-unet-medsam/
 **Source**: Medical Segmentation Decathlon - Task01_BrainTumour
 
 ### Statistics:
+
 - **Total Cases**: 484
 - **Training**: 338 (70%)
 - **Validation**: 72 (15%)
 - **Test**: 74 (15%)
 
 ### Modalities:
+
 - FLAIR (T2-weighted FLAIR)
 - T1w (T1-weighted)
 - T1ce (T1-weighted with contrast enhancement)
 - T2w (T2-weighted)
 
 ### Labels:
+
 - 0: Background
 - 1: Edema (peritumoral edema)
 - 2: Enhancing tumor
 - 3: Non-enhancing tumor core
 
 ### BraTS Regions:
+
 - **WT (Whole Tumor)**: All tumor classes (1+2+3)
 - **TC (Tumor Core)**: Classes 2+3
 - **ET (Enhancing Tumor)**: Class 2 only
@@ -122,6 +130,7 @@ Output: 4 channels × 128×128×128 (background + 3 tumor classes)
 **Size**: ~73.3 MB
 
 ### Training Configuration:
+
 - **Loss**: DiceCE (50% Dice + 50% Cross Entropy)
 - **Optimizer**: AdamW (lr=1e-4, weight_decay=1e-5)
 - **Scheduler**: Cosine Annealing (T_max=100)
@@ -135,9 +144,11 @@ Output: 4 channels × 128×128×128 (background + 3 tumor classes)
 ## 🔧 Improvements Implemented
 
 ### 1. Post-Processing ⭐
+
 **No retraining required!**
 
 Techniques:
+
 - Remove small objects (< 100-200 voxels)
 - Fill holes in tumor regions
 - Morphological closing (smooth boundaries)
@@ -146,7 +157,9 @@ Techniques:
 **Expected Improvement**: +1-3% Dice
 
 ### 2. Test-Time Augmentation (TTA)
+
 Strategy:
+
 - Predict on original image
 - Predict on 3 axis-flipped versions
 - Average all predictions
@@ -154,9 +167,11 @@ Strategy:
 **Expected Improvement**: Additional +1-2% Dice
 
 ### 3. Enhanced Model
+
 **Requires retraining**
 
 Changes:
+
 - **Architecture**: Attention U-Net (attention gates on skip connections)
 - **Loss**: DiceFocal (gamma=2.0, focuses on hard examples)
 - **Augmentation**: Elastic deformation, Gaussian noise, contrast adjustment, coarse dropout, multi-axis rotations
@@ -170,23 +185,25 @@ Changes:
 
 ### Baseline (Already Achieved ✅)
 
-| Metric | Mean ± Std | Median |
-|--------|-----------|--------|
-| **WT Dice** | 0.9126 ± 0.0528 | 0.9286 |
-| **TC Dice** | 0.8126 ± 0.1859 | 0.8845 |
-| **ET Dice** | 0.5985 ± 0.2443 | 0.6500 |
-| **Mean Dice** | **0.7746** | - |
+| Metric        | Mean ± Std      | Median |
+| ------------- | --------------- | ------ |
+| **WT Dice**   | 0.9126 ± 0.0528 | 0.9286 |
+| **TC Dice**   | 0.8126 ± 0.1859 | 0.8845 |
+| **ET Dice**   | 0.5985 ± 0.2443 | 0.6500 |
+| **Mean Dice** | **0.7746**      | -      |
 
 ---
 
 ## 🔧 Technical Details
 
 ### System Requirements
+
 - **GPU**: NVIDIA T4 or better (Google Colab free tier works!)
 - **RAM**: 12-16 GB
 - **Storage**: ~50 GB for dataset + models
 
 ### Software Dependencies
+
 ```
 Python 3.8+
 PyTorch 1.12+
@@ -201,12 +218,14 @@ pandas
 ```
 
 ### Training Time
+
 - **Baseline (100 epochs)**: ~3-5 hours on T4 GPU ✅ Done!
 - **Post-processing eval**: ~10-15 minutes
 - **TTA eval**: ~40-60 minutes
 - **Enhanced model (150 epochs)**: ~7-10 hours on T4 GPU
 
 ### Inference Time
+
 - **Standard**: ~3-5 seconds per case
 - **With TTA**: ~12-20 seconds per case
 
@@ -215,23 +234,30 @@ pandas
 ## 🚨 Troubleshooting
 
 ### Out of Memory (OOM)
+
 **Solution**: Reduce `BATCH_SIZE` from 2 to 1
 
 ### Training Too Slow
+
 **Solutions**:
+
 - Reduce `cache_rate` from 1.0 to 0.5
 - Use fewer epochs (50-75 instead of 100)
 - Verify GPU is being used
 
 ### Poor ET Segmentation
+
 **Solutions**:
+
 - Use post-processing
 - Use focal loss for improved model
 - Train longer (more epochs)
 - Verify class weights
 
 ### Validation Plateaus
+
 **Solutions**:
+
 - Check for overfitting (val loss increasing?)
 - Reduce learning rate
 - Add more augmentation
@@ -258,7 +284,7 @@ This project provides a complete, reproducible framework for brain tumor segment
 ✅ Achieved competitive baseline performance (0.7746 Mean Dice)  
 ✅ Multiple improvement strategies documented  
 ✅ Clear paths to production-ready segmentation  
-✅ Full documentation and code included  
+✅ Full documentation and code included
 
 **Ready for deployment and further enhancement!**
 
